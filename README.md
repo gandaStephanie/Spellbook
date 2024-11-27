@@ -38,6 +38,8 @@ Sample Input/Output:
 
 Welcome to the Wizard's Spellbook Heap Adventure!
 
+
+
 How many spells do you want to add to your spellbook? 5
 
 Enter the names and power levels of the spells:
@@ -62,6 +64,8 @@ Enter the name of spell #5: crucio
 
 Enter the power level of crucio: 15
 
+
+
 Your Spellbook before building the Max-Heap:
 
 Spellbook (Array Representation):
@@ -75,6 +79,7 @@ Spell: obliviate, Power: 35 (Index 2)
 Spell: alohomora, Power: 99 (Index 3)
 
 Spell: crucio, Power: 15 (Index 4)
+
 
 
 Building Max-Heap (strongest spells will rise to the top):
@@ -106,6 +111,7 @@ Spell: lumos, Power: 60
 Spell: obliviate, Power: 35
 
 Spell: crucio, Power: 15
+
 
 
 Converting to Min-Heap (weakest spells will rise to the top):
@@ -159,5 +165,7 @@ Spell: obliviate, Power: 35 (Index 2)
 Spell: lumos, Power: 60 (Index 3)
 
 Spell: crucio, Power: 15 (Index 4)
+
+
 
 Thank you for using the Wizard's Spellbook Heap Adventure!
